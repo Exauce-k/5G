@@ -149,7 +149,7 @@ footer {
 <body>
 
 <header>
-    <h1>5G BUSINESS</h1>
+    <h1>Litework</h1>
     <nav>
         <a href="#">Accueil</a>
         <a href="#services">Services</a>
@@ -158,7 +158,7 @@ footer {
 </header>
 
 <section class="hero">
-    <h2>Bienvenue dans 5G Business</h2>
+    <h2>Bienvenue dans Litework</h2>
     <p>Design • Musique • Business</p>
     <button onclick="scrollToServices()">Découvrir</button>
 </section>
@@ -196,11 +196,13 @@ footer {
     <h2>Contact</h2>
     <p>WhatsApp : +243 987556477</p>
       <p>WhatsApp : +243 851643612</p>
+      <p>WhatsApp : +243 808731409</p>
+    
     <p>Email : exaucekaboto47@gmail.com.com</p>
 </section>
 
 <footer>
-    <p>© 2026 5G Business</p>
+    <p>© 2026 WorkLite</p>
 </footer>
 
 <!-- WHATSAPP FLOAT -->
