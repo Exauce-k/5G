@@ -1,0 +1,46 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+/* HEADER */
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: black;
+    border-bottom: 2px solid gold;
+}
+
+header h1 {
+    color: gold;
+}
+
+
+.hero {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(black, #111);
+    text-align: center;
+
+}
+
+.hero h2 {
+    font-size: 45px;
+    color: gold;
+    animation: fadeIn 2s;
+}
+
+.hero p {
+    margin: 15px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: black;
+    border-top: 2px solid gold;
+}
