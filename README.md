@@ -195,6 +195,7 @@ footer {
 <section class="section" id="contact">
     <h2>Contact</h2>
     <p>WhatsApp : +243 987556477</p>
+      <p>WhatsApp : +243 851643612</p>
     <p>Email : exaucekaboto47@gmail.com.com</p>
 </section>
 
