@@ -1,5 +1,3 @@
-# 5G
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
