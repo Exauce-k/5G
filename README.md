@@ -149,7 +149,7 @@ footer {
 <body>
 
 <header>
-    <h1>Litework</h1>
+    <h1>5G Business</h1>
     <nav>
         <a href="#">Accueil</a>
         <a href="#services">Services</a>
@@ -158,7 +158,7 @@ footer {
 </header>
 
 <section class="hero">
-    <h2>Bienvenue dans Litework</h2>
+    <h2>Bienvenue dans 5G Business</h2>
     <p>Design • Musique • Business</p>
     <button onclick="scrollToServices()">Découvrir</button>
 </section>
